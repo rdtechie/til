@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of topics. 
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
@@ -21,3 +21,4 @@ _2 TILs and counting..._
 ### Git
 
 - [worktrees](git/worktrees.md)
+- [contributors](git/contributors.md)
